@@ -4,7 +4,7 @@
   "description": "Bend Language Syntax Highlighting",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.89.0"
+    "vscode": "^1.86.2"
   },
   "categories": [
     "Programming Languages"
